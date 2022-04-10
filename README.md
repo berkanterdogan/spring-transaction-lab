@@ -1,4 +1,4 @@
-# SPRING JPA LAB
+# SPRING TRANSACTION LAB
 
 This project has some case studies on spring transactions.
 
