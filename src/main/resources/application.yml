@@ -11,7 +11,7 @@ spring:
     show-sql: ${JPA_SHOW_SQL:true}
     properties:
       hibernate:
-        format_sql: ${JPA_PROPERTIES_HIBERNATE_FORMAT_SQL:true}
+        format_sql: ${JPA_PROPERTIES_HIBERNATE_FORMAT_SQL:false}
 
 logging:
   level:
