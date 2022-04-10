@@ -2,6 +2,10 @@
 
 This project has some case studies on spring transactions.
 
+- `SpringTransactionLabApplicationLoader` class implements `CommandLineRunner` class. 
+This class has my scenario for tracking the Spring transaction management. 
+You will see the usages of Transaction annotation's `propagation` and `rollbackFor` attributes.
+
 ## Requirements
 
 - Java 17
